@@ -4,7 +4,7 @@ from tkinter import colorchooser
 root = Tk()
 
 # Create Title
-root.title("New Windows Creation")
+root.title("Color Picker GUI")
 root.geometry("300x300")
 
 def color():
